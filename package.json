@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sushil Shinde <shinde.sushil@gmail.com> (https://github.com/sushilshinde)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.4"
+  }
+}
